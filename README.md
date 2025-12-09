@@ -1,2 +1,2 @@
-# Vertical-timeline
-Display with scroll a vertical timeline for UFOI and visitation.
+# UFO-vert-timeline
+Display with scroll a ufo vertical timeline for UFO's and visitation.
