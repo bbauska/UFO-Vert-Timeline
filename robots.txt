@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://github.com/bbauska/vertical-timeline
+Sitemap: https://github.com/bbauska/ufo-vert-timeline
