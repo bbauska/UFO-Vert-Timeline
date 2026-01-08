@@ -6,6 +6,8 @@ Display with scroll a ufo vertical timeline for UFO's and visitation.
     <p>My <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener noreferrer" 
 	aria-label="Cellardoor main menu" 
 	title="cellardoor menu">Main Menu</a></p>
+<ul>
+	<li>
 
           <h4>'33-'35</h4>
           <h3>Adm Richard Byrd Arctic/Antarctic Expeditions</h3>
@@ -14,38 +16,23 @@ Display with scroll a ufo vertical timeline for UFO's and visitation.
 			aria-label="Adm Richard Byrd Arctic Expedition" 
 			title="Adm Richard Byrd Arctic Expedition">
             Adm Richard Byrd Arctic Expedition (33:45)</a></p>
-        </div>
-      </div>
     </li>
     <li>
-      <div class="item-inner">
-        <div class="time-wrapper">
           <h4>Jun'33</h4>
-        </div>
-        <div class="details">
           <h3>UFO Crash Lombardy, Italy - Under Benito Mussolini</h3>
           <p>
 		    <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer" 
 		    aria-label="The Crash in Italy" 
 			title="The Crash in Italy">
             The Crash in Italy</a></p>
-        </div>
-      </div>
     </li>
     <li>
-      <div class="item-inner">
-        <div class="time-wrapper">
-          <h4>'42-'44</h4>
-        </div>
-        <div class="details">
           <h3>Battle of Los Angeles, CA</h3>
           <p><a href="https://www.youtube.com/watch?v=Vf41CD5INGU" 
             target="_blank" rel="noopener noreferrer" 
 			aria-label="The Foo Fighters Incidents" 
 			title="The Foo Fighters Incidents">
             The Foo Fighters Incidents (2:21)</a></p>
-        </div>
-      </div>
     </li>
     <li>
       <div class="item-inner">
