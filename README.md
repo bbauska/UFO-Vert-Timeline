@@ -1,2 +1,1203 @@
 # UFO Vert Timeline
 Display with scroll a ufo vertical timeline for UFO's and visitation.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~ readme.md of bbauska/UFO-Vert-Timeline making UFO-Vert-Timeline.bauska.org ~~~~~~~-->
+<h1>UFO/ET Chronology Since 1933</h1>
+    <p>My <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener noreferrer" 
+	aria-label="Cellardoor main menu" 
+	title="cellardoor menu">Main Menu</a></p>
+
+          <h4>'33-'35</h4>
+          <h3>Adm Richard Byrd Arctic/Antarctic Expeditions</h3>
+          <p><a href="https://www.youtube.com/watch?v=fnmxsj-prhM" 
+            target="_blank" rel="noopener noreferrer" 
+			aria-label="Adm Richard Byrd Arctic Expedition" 
+			title="Adm Richard Byrd Arctic Expedition">
+            Adm Richard Byrd Arctic Expedition (33:45)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jun'33</h4>
+        </div>
+        <div class="details">
+          <h3>UFO Crash Lombardy, Italy - Under Benito Mussolini</h3>
+          <p>
+		    <a href="https://www.popularmechanics.com/military/research/a44466099/researcher-says-he-has-evidence-of-1933-ufo-crash-in-italy/" target="_blank" rel="noopener noreferrer" 
+		    aria-label="The Crash in Italy" 
+			title="The Crash in Italy">
+            The Crash in Italy</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>'42-'44</h4>
+        </div>
+        <div class="details">
+          <h3>Battle of Los Angeles, CA</h3>
+          <p><a href="https://www.youtube.com/watch?v=Vf41CD5INGU" 
+            target="_blank" rel="noopener noreferrer" 
+			aria-label="The Foo Fighters Incidents" 
+			title="The Foo Fighters Incidents">
+            The Foo Fighters Incidents (2:21)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jun'47</h4>
+        </div>
+        <div class="details">
+          <h3>Kenneth Arnold Over Mt Rainier, WA</h3>
+          <p><a href="https://www.theatlantic.com/technology/archive/2014/06/the-man-who-introduced-the-world-to-flying-saucers/372732/" 
+            target="_blank" rel="noopener noreferrer" 
+			aria-label="Kenneth Arnold Sighting 8 Flying Saucers" 
+			title="Kenneth Arnold Sighting 8 Flying Saucers">
+            Kenneth Arnold Sighting 8 Flying Saucers (2:21)</a></p>
+        </div>
+      </div>
+    </li>
+	
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'47</h4>
+        </div>
+        <div class="details">
+          <h3>The Roswell Incident, New Mexico</h3>
+          <p><a href="https://www.history.com/topics/paranormal/roswell" 
+            target="_blank" rel="noopener noreferrer" 
+			aria-label="RAAF Captures Flying Saucer on Ranch in Roswell Region" 
+			title="RAAF Captures Flying Saucer on Ranch in Roswell Region">
+            RAAF Captures Flying Saucer on Ranch in Roswell Region</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'47</h4>
+        </div>
+        <div class="details">
+          <h3>Einstein saw Roswell UFO &amp; ET's</h3>
+          <p><a href="https://www.the-sun.com/news/3789887/albert-einstein-ufo-roswell-crash-aliens/" 
+            target="_blank" rel="noopener noreferrer" 
+			aria-label="Einstein studied Roswell crash ufo &amp; ET corpses" 
+			title="Einstein studied Roswell crash ufo &amp; ET corpses">
+            Einstein studied Roswell crash UFO &amp; corpses</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jan'48</h4>
+        </div>
+        <div class="details">
+          <h3>Capt Mantell Over Fort Knox, KY</h3>
+          <p><a href="https://www.nicap.org/480107fortknox_dir.htm" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Mantell Case" 
+			title="The Mantell Case">
+            The Mantell Case</a>
+			Air National Guard pilot Capt. Thomas Mantell, Jr killed in crash of F-51 during UFO pursuit.
+			</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Mar'50</h4>
+        </div>
+        <div class="details">
+          <h3>Farmington UFO Invasion, New Mexico</h3>
+          <p><a href="https://www.lcsun-news.com/story/news/local/2020/03/17/ufo-armada-reportedly-filled-skies-above-farmington-1950/5073795002/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Farmington Sightings" 
+			title="The Farmington Sightings">
+            The Farmington UFO Invasion: Farmington, NM</a>
+			At 11:00 a.m. Several persons (approx. 10) observed 12 to 15 flat spheroid shaped objects 
+			maneuvering in the sky. The objects turned on their axis and manuevered up and down, 
+			sometimes turning at very sharp angles. They were observed for a period of 3 to 5 minutes.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Sep'51</h4>
+        </div>
+        <div class="details">
+          <h3>Lubbock Lights, CE-1, Texas</h3>
+          <p><a href="https://youtu.be/udhxdNpRCbw" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Lubbock Lights" 
+			title="The Lubbock Lights">
+            The Lubbock Lights: Lubbock, TX</a></p>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'52</h4>
+        </div>
+        <div class="details">
+          <h3>Nash-Fortenberry CE-2, Virginia</h3>
+          <p><a href="https://theufodatabase.com/incidents/nash-fortenberry-ufo-sighting" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Nash-Fortenberry CE2 UFO Incident" 
+			title="The Nash-Fortenberry CE2 UFO Incident">
+            The Nash-Fortenberry CE2 UFO Incident</a></p>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'52</h4>
+        </div>
+        <div class="details">
+          <h3>UFO's Over Washington, DC (twice)</h3>
+          <p><a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government5.htm" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Washington D.C. UFO Incident (twice)"
+			title="The Washington D.C. UFO Incident (twice)">
+            The Washington D.C. UFO Incident (twice)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Aug'55</h4>
+        </div>
+        <div class="details">
+          <h3>CE-3 Encounter, Kelly-Hopkinsville, KY</h3>
+          <p><a href="https://www.youtube.com/watch?v=w2-nJ1WUshQ" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="CE3 Encounter Kelly-Hopkinsville, KY" 
+			title="CE3 Encounter Kelly-Hopkinsville, KY">
+            CE3 Encounter Kelly-Hopkinsville, KY (10:44)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>1956</h4>
+        </div>
+        <div class="details">
+          <h3>UFOs: The True Story of Flying Saucers</h3>
+          <p><a href="https://youtu.be/4bGTLtdwPHM" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="UFOs: The True Story of Flying Saucers" 
+			title="UFOs: The True Story of Flying Saucers">
+            UFOs: The True Story of Flying Saucers (1:30:03)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>1959</h4>
+        </div>
+        <div class="details">
+          <h3>The Flying Saucers (movie)</h3>
+          <p><a href="https://youtu.be/XUtbvrmMO6w" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Flying Saucers movie" 
+			title="The Flying Saucers movie">
+            The Flying Saucers (1:15:04)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jun'59</h4>
+        </div>
+        <div class="details">
+          <h3>Fr William Gill, Papau, New Guinea</h3>
+          <p><a href="https://www.youtube.com/watch?v=LZHhoi1wboc" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Fr William Gill-Papua, New Guinea" 
+			title="Fr William Gill-Papua, New Guinea">
+            Fr William Gill CE-2: Papua, New Guinea (3:38)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Sep'61</h4>
+        </div>
+        <div class="details">
+          <h3>Betty &amp; Barney Hill Abduction, NH</h3>
+          <p><a href="https://www.youtube.com/watch?v=qBcXbYc0zPI" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Betty &amp; Barney Hill CE3" 
+			title="Betty &amp; Barney Hill CE3">
+            Betty &amp; Barney Hill CE3: White Mountains/Lancaster, NH (6:56)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Apr'64</h4>
+        </div>
+        <div class="details">
+          <h3>UFO Landing in Socorro, NM</h3>
+          <p><a href="https://www.ufoinsight.com/ufos/close-encounters/zamora-incident-ufo-socorro" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Socorro UFO Incident, NM" 
+			title="Socorro UFO Incident, NM">
+            Socorro UFO Incident: Socorro, NM</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Mar'66</h4>
+        </div>
+        <div class="details">
+          <h3>Congressman Gerald Ford, Michigan</h3>
+          <p><a href="https://www.theblackvault.com/documentarchive/gerald-ford-pushes-congressional-ufo-hearings-1966/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Gerald Ford Pushes for Congressional UFO Investigation" 
+			title="Gerald Ford Pushes for Congressional UFO Investigation">
+            Gerald Ford Pushes for Congressional UFO Investigation</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Apr'66</h4>
+        </div>
+        <div class="details">
+          <h3>Westall Primary School, Australia</h3>
+          <p><a href="https://theconversation.com/westall-66-50-years-on-still-stranger-than-fiction-57188" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Westall UFO Incident" 
+			title="Westall UFO Incident">
+            Westall UFO Incident: Westall, Australia</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Nov'66</h4>
+        </div>
+        <div class="details">
+          <h3>Woodrow Derenberger, Parkersburg,  WV</h3>
+          <p><a href="https://www.youtube.com/watch?v=QP_NFPjgCXA" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Woodrow Derenberger-Parkersburg, WV" 
+			title="Woodrow Derenberger-Parkersburg, WV">
+            Woodrow Derenberger: Parkersburg, WV (29:58)</a></p>
+        </div>
+      </div>
+    </li>
+<!-- Oct 4, 1967  Shag Harbour Incident -->
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Oct'67</h4>
+        </div>
+        <div class="details">
+          <h3>Shag Harbour, Nova Scotia, Canada</h3>
+          <p><a href="https://youtu.be/l9mSG8gY2Rs" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Shag Harbour Incident, Nova Scotia, Canada" 
+			title="Shag Harbour Incident, Nova Scotia, Canada">
+            Shag Harbour Incident: Nova Scotia, Canada (23:42)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Dec'67</h4>
+        </div>
+        <div class="details">
+          <h3>Officer Schirmer, CE-3, Ashland, NE</h3>
+          <p><a href="https://www.youtube.com/watch?v=s-XpymjSBo0" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Officer Schirmer CE3-Ashland, NE" 
+			title="Officer Schirmer CE3-Ashland, NE">
+            Officer Schirmer CE-3: Ashland, NE (22:08)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>May'69</h4>
+        </div>
+        <div class="details">
+          <h3>MUFON Created</h3>
+          <p><a href="https://mufon.com/history/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Creation of MUFON" 
+			title="The Creation of MUFON">
+            The creation of MUFON</a><br>
+			Mutual UFO Network</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Oct'75</h4>
+        </div>
+        <div class="details">
+          <h3>Michael CE-3, Rockville, Maryland</h3>
+          <p><a href="https://youtu.be/gUG4CFFKS40" target="_blank" rel="noopener noreferrer" 
+		  aria-label="Michael's CE-3 Encounter" 
+		  title="Michael's CE-3 Encounter">
+		  Michael's Encounter, 1975</a>
+          One night in October 1975, Michael (age 19) woke up to find himself floating above his 
+		  home in Rockville, Maryland, and into a classic metallic flying saucer. Inside, he was 
+		  levitated to a table. He was shocked to see an Air Force military officer in full uniform 
+		  standing next to him, and what appeared to be two doctors. They proceeded to do some kind 
+		  of operation, he believed, on his brain. At some point he blacked out. Waking up the next 
+		  morning, he wondered if it was a dream, but later, hearing other accounts, he became 
+		  convinced it really happened.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Nov'75</h4>
+        </div>
+        <div class="details">
+          <h3>Travis Walton, Arizona CE-3</h3>
+          <p><a href="http://ufoevidence.org/cases/case242.htm" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Travis Walton CE-3 UFO Incident" 
+			title="Travis Walton CE-3 UFO Incident">
+            Travis Walton CE-3 UFO Incident (22:08)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Sep'76</h4>
+        </div>
+        <div class="details">
+          <h3>UFO Over Tehran, Iran</h3>
+          <p><a href="http://www.ufoevidence.org/cases/case200.htm" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Tehran CE-2 UFO Incident" 
+			title="Tehran CE-2 UFO Incident">
+            Tehran CE-2 UFO Incident</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Feb'77</h4>
+        </div>
+        <div class="details">
+          <h3>Broad Haven Primary School, Wales</h3>
+          <p><a href="https://youtu.be/T64jReeun3A" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Broad Haven Primary School UFO incident" 
+			title="The Broad Haven Primary School UFO incident">
+            The Broad Haven Primary School UFO (2:28)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Oct'78</h4>
+        </div>
+        <div class="details">
+          <h3>The Frederick Valentich Disappearance, Melbourne, Australia</h3>
+          <p><a href="https://youtu.be/HVJr_YJgn1c" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Frederick Valentich disappearance" 
+			title="The Frederick Valentich disappearance">
+            The Frederick Valentich disappearance (15:35)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>1979</h4>
+        </div>
+        <div class="details">
+          <h3>UFOs: It Has Begun</h3>
+          <p><a href="https://youtu.be/c-VvGEyPBm4" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="UFOs: It Has Begun" 
+			title="UFOs: It Has Begun">
+            UFOs: It Has Begun (1:34:05)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Dec'79</h4>
+        </div>
+        <div class="details">
+          <h3>Paul Bennewitz, New Mexico</h3>
+          <p><a href="https://medium.com/@cybertheticproject/the-man-who-knew-too-much-the-unthinkable-true-story-of-how-the-us-government-conspired-to-destroy-c327eb23c943" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Paul Bennewitz Cover Up" 
+			title="Paul Bennewitz Cover Up">
+            Paul Bennewitz Cover Up</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Dec'80</h4>
+        </div>
+        <div class="details">
+          <h3>Rendlesham Forest, UK</h3>
+          <p><a href="https://interestingengineering.com/culture/21-facts-about-the-unresolved-ufo-incident-at-rendlesham-forest" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Rendlesham Forest Incident" 
+			title="Rendlesham Forest Incident">
+            Rendlesham Forest Incident</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Dec'80</h4>
+        </div>
+        <div class="details">
+          <h3>Cash-Landrum Incident, Texas</h3>
+          <p><a href="https://www.youtube.com/watch?v=TiYo1kdnk8I" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Batty Cash, Vickie &amp; Colby Landrum-Texas"
+			title="Betty Cash, Vickie &amp; Colby Landrum-Texas">
+            Betty Cash, Vickie &amp; Colby Landrum-Texas (24:46)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>1982</h4>
+        </div>
+        <div class="details">
+          <h3>Hudson UFO Wave, New York</h3>
+          <p><a href="https://youtu.be/DyjMetd0UUc" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Hudson, New York UFO Wave - CE-1"
+			title="Hudson, New York UFO Wave - CE-1">
+            Hudson Valley, UFO Wave, Hudson, NY (16:59)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'84</h4>
+        </div>
+        <div class="details">
+          <h3>UFO over Lummi Island, WA</h3>
+          <p><a href="https://www.youtube.com/watch?v=F-DdfEJcTgE" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="UFO splash over Lummi Island, WA" 
+			title="UFO splash over Lummi Island, WA">
+            UFO Splash: Lummi Island, WA (52:03)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jan'87</h4>
+        </div>
+        <div class="details">
+          <h3>John Lear &amp; the CIA in Nevada</h3>
+          <p><a href="https://www.youtube.com/watch?v=kidNmZQ-Lms" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="John Lear Comes Forward" 
+			title="John Lear Comes Forward">
+            John Lear Comes Forward (26:01)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>'89-'90</h4>
+        </div>
+        <div class="details">
+          <h3>Belgian UFO Wave</h3>
+          <p><a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Belgian UFO Wave" 
+			title="Belgian UFO Wave">
+            Belgian UFO Wave</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>May'89</h4>
+        </div>
+        <div class="details">
+          <h3>Bob Lazar Explains Area 51, Nevada</h3>
+          <p>  <a href="https://www.youtube.com/watch?v=GP916VVnXug&pp=ygUlTWF5IDE1LCAxOTg5OiBCb2IgTGF6YXIgQ29tZXMgRm9yd2FyZA%3D%3D" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Bob Lazar Comes Forward"
+			title="Bob Lazar Comes Forward">
+            Bob Lazar Comes Forward (3:04)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Oct'89</h4>
+        </div>
+        <div class="details">
+          <h3>UFO Landing in Voronezh, USSR</h3>
+          <p>  <a href="" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="UFO/ET Encounter CE-3 in Voronezh, USSR"
+			title="UFO/ET Encounter CE-3 in Voronezh, USSR">
+            UFO/ET Encounter CE-3: Voronezh, USSR (3:04)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>1990</h4>
+        </div>
+        <div class="details">
+          <h3>Dr Steven Greer Explains</h3>
+          <p> <a href="https://www.reddit.com/r/UFOs/comments/oeeocd/jacques_vallee_on_stephen_greer_excerpts_from/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Dr. Steven Greer Comes Forward" 
+			title="Dr. Steven Greer Comes Forward">
+            Dr. Steven Greer Comes Forward</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Aug'90</h4>
+        </div>
+        <div class="details">
+          <h3>Calvine UFO Photograph, Scotland</h3>
+          <p> <a href="https://youtu.be/mo4A_gRr90w" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Calvine UFO Photo, Scotland" 
+			title="Calvine UFO Photo, Scotland">
+            Calvine UFO Photograph (2:37)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>1994</h4>
+        </div>
+        <div class="details">
+          <h3>Congressman Steven Schiff Explains</h3>
+          <p><a href="https://www.washingtonpost.com/archive/politics/1994/01/14/gao-turns-to-alien-turf-in-probe/a42ab4bd-cd82-4c1c-a88a-3800e10616c4/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Congressman Steven Schiff (NM) Comes Forward" 
+			title="Congressman Steven Schiff (NM) Comes Forward">
+            Congressman Steven Schiff (NM) Comes Forward</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Sep'94</h4>
+        </div>
+        <div class="details">
+          <h3>Ariel Primary School CE-2, Zimbabwe</h3>
+          <p><a href="https://allthatsinteresting.com/history-uncovered/ariel-school-ufo" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Ariel Primary School UFO CE-2-Zimbabwe" 
+			title="Ariel Primary School UFO CE-2-Zimbabwe">
+            Ariel Primary School ET/UFO CE-2: Zimbabwe</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jan'96</h4>
+        </div>
+        <div class="details">
+          <h3>Varginha Incident, Varginha, Brazil</h3>
+          <p><a href="https://www.youtube.com/watch?v=EZJl6STnDYE" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Varginha Alien Visitation" 
+			title="Varginha Alien Visitation">
+            Varginha Alien Visitation 'Moment of Contact' (1:09:04)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Mar'97</h4>
+        </div>
+        <div class="details">
+          <h3>The Phoenix Lights, Phoenix, Arizona</h3>
+          <p><a href="https://www.esquire.com/entertainment/tv/a37246318/showtime-ufo-phoenix-lights-true-story/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Phoenix Lights" 
+			title="The Phoenix Lights">
+            The Phoenix Lights: Phoenix, AZ</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jan'98</h4>
+        </div>
+        <div class="details">
+          <h3>CE-3 Heravillars, France</h3>
+          <p><a href="" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="UFO &amp; ET abduction in Haravilliars, FR" 
+			title="UFO &amp; ET abduction in Heravillars, FR">
+            UFO &amp; ET abduction in Heravillars, FR</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jan'00</h4>
+        </div>
+        <div class="details">
+          <h3>Illinois Triangle</h3>
+          <p><a href="http://ufoevidence.org/cases/case277.htm" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Illinois Triangle UFO Sightings (multiple) by police officers" 
+			title="Illinois Triangle UFO Sightings (multiple) by police officers">
+            Illinois Triangle UFO Sightings (multiple) by police officers</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>May'01</h4>
+        </div>
+        <div class="details">
+          <h3>Nat'l Press Club, Washington, DC</h3>
+          <p><a href="https://www.youtube.com/watch?v=XKKA1pSf4XE" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="National Press Club Event" 
+			title="National Press Club Event">
+            National Press Club Event (38:44)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2002</h4>
+        </div>
+        <div class="details">
+          <h3>Out of the Blue</h3>
+          <p><a href="https://youtu.be/cYPCKIL7oVw" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Out of the Blue" 
+			title="Out of the Blue">
+            Out of the Blue (1:47:29)</a>
+			A James Fox Film</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Oct'03</h4>
+        </div>
+        <div class="details">
+          <h3>'Man' Seen Through Binoculars in Ohio</h3>
+          <p><a href="http://ufoevidence.org/cases/case935.htm" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Rectangle object with man standing inside seen through binoculars in Ohio" 
+			title="Rectangle object with man standing inside seen through binoculars in Ohio">
+            Rectangular object with 'man' standing inside seen through binoculars in Westerville, Ohio</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Nov'04</h4>
+        </div>
+        <div class="details">
+          <h3>USS Nimitz Incident, Off S. California</h3>
+          <p><a href="https://www.youtube.com/watch?v=ygB4EZ7ggig" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="USS Nimitz Carrier Incident" 
+			title="USS Nimitz Carrier Incident">
+            USS Nimitz Aircraft Carrier Incident (6:44)</a></p>
+        </div>
+      </div>
+    </li>
+<!--
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2004</h4>
+        </div>
+        <div class="details">
+          <h3> </h3>
+          <p><a href="" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="" 
+			title="">
+            </a></p>
+        </div>
+      </div>
+    </li>
+-->
+
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Sep'05</h4>
+        </div>
+        <div class="details">
+          <h3>Paul Hellyer "UFO's are as real as the airplanes flying overhead"</h3>
+          <p><a href="https://www.youtube.com/watch?v=DsJpHQP5yCc" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Fmr CDN Minister of Defense, Paul Hellyer Comes Forward" 
+			title="Fmr CDN Minister of Defense, Paul Hellyer Comes Forward">
+            Fmr CDN Minister of Defense, Paul Hellyer (19:15)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Oct'05</h4>
+        </div>
+        <div class="details">
+          <h3>Analysis of a Web-Like Substance, Colorado</h3>
+          <p><a href="https://www.theblackvault.com/casefiles/analysis-web-like-substance-encountered-october-14-2005-october-17-2005-northeastern-colorado/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Analysis of a web-like substance in northeastern Colorado" 
+			title="Analysis of a web-like substance in northeastern Colorado">
+            Analysis of a web-like substance from northeastern Colorado</a>.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'06</h4>
+        </div>
+        <div class="details">
+          <h3>Barbara Lamb and the lizard man</h3>
+          <p><a href="https://youtu.be/N2mDKZCZwKc" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Barbara Lamb and the lizard man" 
+			title="Barbara Lamb and the lizard man">
+            Barbara Lamb and the lizard man</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Nov'06</h4>
+        </div>
+        <div class="details">
+          <h3>UFO Over O'Hare Airport, Chicago, Illinois</h3>
+          <p><a href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Chicago O'Hare International Airport Incident" 
+			title="Chicago O'Hare International Airport Incident">
+            Chicago O'Hare International Airport Incident</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Apr'07</h4>
+        </div>
+        <div class="details">
+          <h3>Alderney UFO Sightings, Southampton, England</h3>
+          <p><a href="" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Alderney UFO Sightings, Southampton, England" 
+			title="Alderney UFO Sightings, Southampton, England">
+            Alderney UFO Sightings, Southampton, England</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>'07-'09</h4>
+        </div>
+        <div class="details">
+          <h3>UFO Video of ETs</h3>
+          <p><a href="https://www.youtube.com/watch?v=KOyHy8K4F9Q" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Kumbergaz, Turkey UFO/ET Video" 
+			title="The Kumbergaz, Turkey UFO/ET Video">
+            The Kumburgaz, Turkey UFO/ET Video (22:07)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2007</h4>
+        </div>
+        <div class="details">
+          <h3>AATIP</h3>
+          <p><a href="https://taskandpurpose.com/news/us-military-history-ufos-track/" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Creation of AATIP" 
+			title="Creation of AATIP">
+            Creation of AATIP</a>
+			Advanced Aerospace Threat Identification Program</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2008</h4>
+        </div>
+        <div class="details">
+          <h3>The Vatican Explains</h3>
+          <p><a href="https://www.youtube.com/watch?v=HmjBzcWxWPE" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Vatican Accepts Extraterrestrials" 
+			title="The Vatican Accepts Extraterrestrials">
+            The Vatican Accepts Extraterrestrials (3:32)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'08</h4>
+        </div>
+        <div class="details">
+          <h3>Astronaut Edgar Mitchell Explains</h3>
+          <p><a href="https://www.chron.com/news/nation-world/space/article/NASA-astronaut-Edgar-Mitchell-who-walked-on-the-6443113.php" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Fmr Astronaut Edgar Mitchell Comes Forward" 
+			title="Fmr Astronaut Edgar Mitchell Comes Forward">
+            Fmr Astronaut Edgar Mitchell</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2009</h4>
+        </div>
+        <div class="details">
+          <h3>I Know What I Saw</h3>
+          <p>
+            <a href="https://youtu.be/tGMGOdKOPKk" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="I Know What I Saw: documentary on UFOs and ETs" 
+			title="I Know What I Saw: documentary on UFOs and ETs">
+            I Know What I Saw</a>
+			James Fox Productions</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2009</h4>
+        </div>
+        <div class="details">
+          <h3>New Swirled Order</h3>
+          <p>
+            <a href="https://youtu.be/8mAdrSvOgwI" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="New Swirled Order: documentary on crop circles" 
+			title="New Swirled Order: documentary on crop circles">
+            New Swirled Order: Crop Circles (0:50:06)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2011</h4>
+        </div>
+        <div class="details">
+          <h3>Secret Access: UFOs On the Record</h3>
+          <p>
+            <a href="https://youtu.be/4ObeS5Jg8K4" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Secret Access: UFOs On the Record" 
+			title="Secret Access: UFOs On the Record">
+            Secret Access: UFOs On the Record (1:27:27)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2016</h4>
+        </div>
+        <div class="details">
+          <h3>Think Anomalous UFO Documentaries</h3>
+          <p>
+            <a href="https://www.youtube.com/c/ThinkAnomalous/videos" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Think Anomalous UFO Documentaries" 
+			title="Think Anomalous UFO Documentaries">
+            Think Anomalous UFO Documentaries</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2017</h4>
+        </div>
+        <div class="details">
+          <h3>Unacknowledged</h3>
+          <p><a href="https://youtu.be/p-duAuIqsOQ" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Unacknowledged trailer" 
+			title="Unacknowledged trailer">
+            Unacknowledged trailer (0:02:14)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Dec'17</h4>
+        </div>
+        <div class="details">
+          <h3>Christoper Mellon Explains</h3>
+          <p><a href="https://www.youtube.com/watch?v=G5sXEeP1C-s" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Christopher Mellon &amp; NYT Article" 
+			title="Christopher Mellon &amp; NYT Article">
+            Christopher Mellon &amp; NYT Article (2:53)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2020</h4>
+        </div>
+        <div class="details">
+          <h3>The Phenomenon</h3>
+          <p><a href="https://youtu.be/XjJomA4NDQI" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="The Phenomenon trailer" 
+			title="The Phenomenon trailer">
+            The Phenomenon trailer (0:01:19)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Apr'20</h4>
+        </div>
+        <div class="details">
+          <h3>3 Leaked UFO Videos</h3>
+          <p><a href="https://www.youtube.com/watch?v=9a0xIzp-fbs" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Three Leaked UFO Videos are Confirmed" 
+			title="Three Leaked UFO Videos are Confirmed">
+            Three Leaked UFO Videos are Confirmed (2:38)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Dec'20</h4>
+        </div>
+        <div class="details">
+          <h3>Haim Eshed Comes Forward</h3>
+          <p><a href="https://www.youtube.com/watch?v=eBYoqFzgYHc" 
+            target="_blank" rel="noopenner noreferrer" 
+			aria-label="Haim Eshed Comes Forward" 
+			title="Haim Eshed Comes Forward">
+            Haim Eshed Comes Forward (1:20:55)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>May'21</h4>
+        </div>
+        <div class="details">
+          <h3>Navy Pilots Explain</h3>
+          <p><a href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" 
+            aria-label="Navy Pilots Describe Encounter with UFOs"
+            target="_blank" rel="noopenner noreferrer" 
+			title="Navy Pilots Describe Encounter with UFOs">
+            Navy Pilots Describe Encounter with UFOs (13:47)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2022</h4>
+        </div>
+        <div class="details">
+          <h3>Moment of Contact</h3>
+          <p><a href="https://youtu.be/DHN95mmf6ho" 
+            target="_blank" rel="noopenner noreferrer" 
+            aria-label="Moment of Contact: Varginia, Brazil UFO Crash &amp; ET Encounters"
+			title="Moment of Contact: Varginia, Brazil UFO Crash &amp; ET Encounters">
+            Moment of Contact (1:47:24)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2023</h4>
+        </div>
+        <div class="details">
+          <h3>The Man Who Provided Proof UFOs Are Real</h3>
+          <p><a href="https://youtu.be/kwsWAQ9sJZE" 
+            target="_blank" rel="noopenner noreferrer" 
+            aria-label="The Man Who Provided Proof UFOs Are Real: David Grusch Under Oath"
+			title="The Man Who Provided Proof UFOs Are Real: David Grusch Under Oath">
+            The Man Who Provided Proof UFOs Are Real (1:09:18)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jun'23</h4>
+        </div>
+        <div class="details">
+          <h3>David Grusch Explains</h3>
+          <p><a href="https://www.youtube.com/watch?v=OwSkXDmV6Io&t=5s" 
+            target="_blank" rel="noopenner noreferrer" 
+            aria-label="David Grusch Comes Forward" 
+            title="David Grusch Comes Forward">
+            David Grusch Comes Forward (2:15:08)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'23</h4>
+        </div>
+        <div class="details">
+          <h3>3 Testify to Congress</h3>
+          <p><a href="https://www.youtube.com/watch?v=SNgoul4vyDM" 
+            target="_blank" rel="noopenner noreferrer" 
+            aria-label="Three Testify Under Oath to Congress" 
+            title="Three Testify Under Oath to Congress">
+            Three Testify Under Oath to Congress (2:19:05)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>2024</h4>
+        </div>
+        <div class="details">
+          <h3>The Program</h3>
+          <p><a href="https://youtu.be/MrFE9Dbv-so" 
+            target="_blank" rel="noopenner noreferrer" 
+            aria-label="The Program" 
+            title="The Program">
+            The Program trailer (0:02:07)</a>
+			James Fox Production</p>
+        </div>
+      </div>
+    </li>
+<!-- https://youtu.be/2wjr98tNQUw Beyond: UFOs and the Unknown -->
+<!-- https://youtu.be/zwAj2KvScx8UFO Revolution -->
+<!-- https://www.youtube.com/@UAPGerb/videos UAP Gerb Documentaries -->
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jan'24</h4>
+        </div>
+        <div class="details">
+          <h3>Daniel Sheehan</h3>
+          <p><a href="https://www.youtube.com/watch?v=iMRynvlb5EY" 
+            target="_blank" rel="noopener noreferrer" 
+            aria-label="Daniel Sheehan, UFO/UAP Disclosure" 
+            title="Daniel Sheehan, UFO/UAP Disclosure">
+            Daniel Sheehan, UFO/UAP Disclosure (1:50:54)</a></p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-inner">
+        <div class="time-wrapper">
+          <h4>Jul'24</h4>
+        </div>
+        <div class="details">
+          <h3>Ross Coulthart</h3>
+          <p><a href="https://www.youtube.com/watch?v=ZUZUyck6KoU&t=55s"
+            target="_blank" rel="noopener noreferrer" 
+            aria-label="UFO's and Absolute Unequivical Proof with Ross Coulthart" 
+            title="UFO's and Absolute Unequivical Proof with Ross Coulthart">
+            UFO's and Absolute Unequivical Proof with Ross Coulthart (2:03:37)</a></p>
+        </div>
+      </div>
+    </li>
+  </ol>
+
+</section>
+<footer class="page-footer">
+  <span>made by </span>
+  <a href="https://brian.bauska.org" target="_blank">
+    <img width="24" height="24" src="https://raw.githubusercontent.com/bbauska/cellardoor/refs/heads/main/images/bauska.ico" 
+      alt="Brian Bauska logo">
+  </a>
+</footer>
+<script  src="./js/scripts.js"></script>
+
+</body>
+</html>
