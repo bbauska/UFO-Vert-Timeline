@@ -1,7 +1,7 @@
 {
   "name": "UFO Vertical Timeline",
   "short_name": "UFO Timeline", 
-  "start_url": "ufo-vert-timeline.bauska.org",
+  "start_url": "./index.html",
   "display": "standalone", 
   "icons": [
   {
