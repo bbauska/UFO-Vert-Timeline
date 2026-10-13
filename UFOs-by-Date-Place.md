@@ -1,8 +1,8 @@
 https://www.youtube.com/watch?v=0x1j0URiXBo
 
 Chapters: 
-0:00 (1) The Utsuro-Bune Incident (Early 19th Century, Japan)
-7:05 (2) The Cennina Woods Encounter (1954, Italy)
+ - 0:00 (1) The Utsuro-Bune Incident (Early 19th Century, Japan)
+ - 7:05 (2) The Cennina Woods Encounter (1954, Italy)
 16:20 (3) The Potosi Sheep Slayer (1968, Pitosi, Bolivia)
 25:50 (4) The 1978 Chilean Air Rod (1978, Chile)
 33:20 (5) Gateshead Alien Encounter (1979, August, UK)
