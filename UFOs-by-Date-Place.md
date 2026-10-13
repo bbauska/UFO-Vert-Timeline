@@ -4,10 +4,10 @@ Chapters:
  - 0:00 (1) The Utsuro-Bune Incident (Early 19th Century, Japan)
  - 7:05 (2) The Cennina Woods Encounter (1954, Italy)
  - 16:20 (3) The Potosi Sheep Slayer (1968, Pitosi, Bolivia)
- - 25:50 (4) The 1978 Chilean Air Rod (1978, Chile)
- - 33:20 (5) Gateshead Alien Encounter (1979, August, UK)
- - 39:40 (6) 1984 Hudson Valley Alien Abduction (1984, Hudson Valley, NY)
- - 50:32 (7) Alien Abduction of Pier Zanfretta 
+ - 25:50 (4) The 1978 Chilean Air Rod (1978 Chile)
+ - 33:20 (5) Gateshead Alien Encounter (1979 August, UK) - tiny ufo's. Carol, only eye-witness. (like 1972, Aug in Japan, 13-yo boy)
+ - 39:40 (6) 1984 Hudson Valley Alien Abduction (1984 July 19, Hudson Valley, NY)
+ - 50:32 (7) Alien Abduction of Pier Zanfretta (
  - 1:04:35 (8) Tom Dawson Alien Encounter
  - 1:09:50 (9) 1971 Kinnula, Finland Alien encounter
  - 1:15:20 (10) The Manises UFO Incident
